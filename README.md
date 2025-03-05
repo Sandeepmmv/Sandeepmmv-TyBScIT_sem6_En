@@ -1,29 +1,41 @@
 # Sandeepmmv-TyBScIT_sem6_En
-1. Perform the analysis for the following: 
-a. Import the data warehouse data in Microsoft Excel and create the Pivot table and Pivot 
-Chart. 
-b. Import the cube in Microsoft Excel and create the Pivot table and Pivot Chart to perform data 
-analysis. 
+1. Configuring OSPF – I  
+a. Single-Area OSPF Link Costs and Interface Priorities  
+b. Multi-Area OSPF with Stub Areas and Authentication  
   
-2. Apply the what – if Analysis for data visualization. Design and generate necessary reports 
-based on the data warehouse data. Use Excel. 
+2. Configuring OSPF – II  
+a. OSPF Virtual Links and Area Summarization  
+b. OSPF over Frame Relay  
   
-3. Perform the data classification using classification algorithm using R/Python. 
+3. Redistribution and Administrative Distances  
+a. Redistribution Between RIP and OSPF  
+b. Manipulating Administrative Distances  
   
-4. Perform the data clustering using clustering algorithm using R/Python. 
+4. BGP 
+a. Configuring BGP with Default Routing  
+b. Using the AS_PATH Attribute  
+c. BGP Route Reflectors and Route Filters  
   
-5. Perform the Linear regression on the given data warehouse data using R/Python. 
+5. IPv6  
+a. Configuring OSPF for IPv6  
+b. Configuring 6to4 Tunnels  
   
-6. Perform the logistic regression on the given data warehouse data using R/Python. 
+6. VLANs and EtherChannel  
+a. Static VLANS, VLAN Trunking, and VTP Domains and Modes  
+b. Configuring EtherChannel  
   
-7. Write a Python program to read data from a CSV file, perform simple data analysis, and 
-generate basic insights. (Use Pandas is a Python library). 
+7. Spanning Tree Protocol  
+a. Spanning Tree Protocol (STP) Default Behavior  
+b. Modifying Default Spanning Tree Behavior  
+ 
   
-8. Perform data visualization 
-a. Perform data visualization using Python on any sales data. 
-b. Perform data visualization using PowerBI on any sales data. 
+ 
+8. VLAN and Spanning Tree  
+a. Per-VLAN Spanning Tree Behavior  
+b. Multiple Spanning Tree  
   
-9. Create the Data staging area for the selected database using SQL. 
+9. Internal VLAN Routing  
+a. Inter-VLAN Routing with an External Router  
+b. Inter-VLAN Routing with an Internal Route Processor 
   
-10. Create the cube with suitable dimension and fact tables based on ROLAP, MOLAP and 
-HOLAP model.
+10. Configure NAT Services  
